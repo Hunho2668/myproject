@@ -8,6 +8,6 @@
 </head>
 <body>
 index.jsp 생성
-ㄴㅇㄴㅇ
+쉐어 후 index.jsp
 </body>
 </html>
